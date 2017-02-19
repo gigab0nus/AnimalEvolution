@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>D:/Daten/Workspaces/c#/AnimalEvolution/AnimalEvolution/Content/bg_sand.png</File>
+    <File>D:/Daten/Workspaces/c#/AnimalEvolution/AnimalEvolution/Content/animalTexture.png</File>
+    <File>D:/Daten/Workspaces/c#/AnimalEvolution/AnimalEvolution/Content/Arial.spritefont</File>
+    <File>D:/Daten/Workspaces/c#/AnimalEvolution/AnimalEvolution/Content/dirt.png</File>
+    <File>D:/Daten/Workspaces/c#/AnimalEvolution/AnimalEvolution/Content/water.jpg</File>
+  </SourceFiles>
+</SourceFileCollection>
